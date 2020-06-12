@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title>
+GUERRAS MAS GRANDES DE LA HISTORIA
+</title>
+</head>
+<body BGCOLOR="gray">
 
-You can use the [editor on GitHub](https://github.com/twister48/art-guerras/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<h2><center><font size=20">LAS GUERRAS MAS GRANDES DE LA HISTORIA</font></center></h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<center><img src="guerra1.jpg"</center>
 
-### Markdown
+<h3><font color="white">lLa guerra es un conflicto, generalmente armado, en el que intervienen dos o más partes. Se aplica aplica a una lucha o enfrentamiento armado entre países o grupos de personas. Con este significado, se utiliza para formar conceptos como guerra civil, buque de guerra, prisionero de guerra o posguerra.</font></h3>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3><font color="white">La guerra, afirma el Marqués de Olivart, es el litigio entre las naciones que defienden sus derechos, en el cual es el juez la fuerza y sirve de sentencia la victoria. Hugo Grocio la definió como status per vincertatium qua tales sunt. Por su parte, Alberico Gentilis afirmó que Bellum est armorum publicorum ensta contentio.12​ Funk - Bretano y Alberto Sorel escribieron: "La guerra es un acto político por el cual varios Estados, no pudiendo conciliar lo que creen son sus deberes, sus derechos o sus intereses, recurren a la fuerza armada para que esta decida cuál de entre ellos, siendo más fuerte, podrá en razón de la fuerza, imponer su voluntad a los demás.</font></h3>
 
-```markdown
-Syntax highlighted code block
+<h3><font size="6">LAS 5 GUERRAS MAS GRANDES DE LA HISTORIA</font></h3>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<h2>1.-guerra de los balcanes</h2>
 
-1. Numbered
-2. List
+<h3><font color="white">Las guerras de los Balcanes fueron dos guerras ocurridas en el sureste de Europa de 1912 a 1913. La primera enfrentó al Imperio otomano con la llamada Liga de los Balcanes formada por Bulgaria, Montenegro, Grecia y Serbia.</font></h3>
 
-**Bold** and _Italic_ and `Code` text
+<a href="C:\Users\Familia Alvarado\Desktop\examen\guerra de los balcanes.html"><font size="5" color="blue">.CLICK</font></a><br>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h2>2.-Las guerras Napoleónicas</h2>
 
-### Jekyll Themes
+<h3><font color="white">Las guerras napoleónicas, también llamadas guerras de la Coalición, ​ fueron una serie de conflictos bélicos que tuvieron lugar durante el tiempo en que el emperador Napoleón I Bonaparte gobernó en Francia.</font></h3>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/twister48/art-guerras/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<a href="C:\Users\Familia Alvarado\Desktop\examen\guerras napoleonicas.html"><font size="5" color="blue">.CLICK</font></a><br>
 
-### Support or Contact
+<h2>3.-Guerra de Vietnam</h2>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h3><font color="white">La Guerra de Vietnam, ​ llamada también Segunda Guerra de Indochina, ​ y conocida en Vietnam como Guerra de Resistencia contra América ​ fue un conflicto bélico librado entre 1955 ​y 1975 para impedir la reunificación de Vietnam bajo un gobierno comunista.</font></h3>
+
+<a href="C:\Users\Familia Alvarado\Desktop\examen\guerra de vietnam.html"><font size="5" color="blue">.CLICK</font></a><br>
+
+<h2>4.-Primera guerra mundial</h2>
+
+<h3><font color="white">La Primera Guerra Mundial, anteriormente llamada la Gran Guerra, ​ fue una confrontación bélica centrada en Europa que empezó el 28 de julio de 1914 y finalizó el 11 de noviembre de 1918, cuando Alemania aceptó las condiciones del armisticio.</font></h3>
+
+<a href="C:\Users\Familia Alvarado\Desktop\examen\primera
